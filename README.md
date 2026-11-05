@@ -1,6 +1,8 @@
-# Template Oficial de Página Setorial — InfoHub UEMG Carangola
+# Página Setorial SAPIENS — InfoHub UEMG Carangola
 
-Este repositório é o modelo (boilerplate) institucional oficial para o desenvolvimento das páginas setoriais da disciplina de **Programação 2** (Bacharelado em Sistemas de Informação - UEMG Carangola).
+Página de apresentação do setor **Revista Científica & Publicações (Setor 08 — Pesquisa)**, com orientações para conhecer a SAPIENS — Revista de Divulgação Científica da UEMG Carangola. Este projeto parte do [template institucional oficial](https://github.com/CursoSistemasUEMGCarangola/InfoHub-UEMG-Template) e mantém a estrutura, o cabeçalho, o rodapé, os modais e os estilos base previstos para as páginas setoriais.
+
+Conteúdo editorial e regras para autores devem ser conferidos no [site oficial da SAPIENS](https://revista.uemg.br/index.php/sps/about) e na página de [submissões](https://revista.uemg.br/index.php/sps/about/submissions), que são as fontes atualizadas para chamadas, prazos e normas.
 
 ---
 
@@ -44,3 +46,5 @@ Este projeto foi construído em **HTML5 semântico, CSS3 e JavaScript ES6+ puro*
 ---
 
 > 📖 **IMPORTANTE:** Leia atentamente o arquivo [GUIA_DO_ESTUDANTE.md](GUIA_DO_ESTUDANTE.md) antes de iniciar a codificação para conferir as regras de acessibilidade, links seguros e critérios de aceite do projeto.
+
+
